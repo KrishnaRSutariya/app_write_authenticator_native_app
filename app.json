@@ -1,0 +1,11 @@
+{
+  "name": "app_write_authenticator_native_app",
+  "displayName": "app_write_authenticator_native_app",
+  "newArchEnabled": true,
+  "android": {
+    "package": "com.hmrtechnology.app_write_authenticator"
+  },
+  "ios": {
+    "bundleIdentifier": "AppWriteAuthenticator"
+  }
+}
